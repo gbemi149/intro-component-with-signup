@@ -86,6 +86,11 @@ input {
   transition: all 0.2s ease-in-out;
 }
 
+.fa-solid fa-eye{
+  position:absolute;
+
+}
+
 input.error {
   border: 1px solid var(--red);
 }
